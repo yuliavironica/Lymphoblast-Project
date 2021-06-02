@@ -1,4 +1,4 @@
-# Lympoblast-Project
+# Lymphoblast-Project
 
 1. Open GCP in a Google tab
 2. Log in to GCP using gmail account
