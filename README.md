@@ -1,6 +1,7 @@
 # Lymphoblast-Project
 
 1. Open GCP in a Google tab.
+![tutorial](https://user-images.githubusercontent.com/54854638/121184882-b8214a00-c88f-11eb-9e63-0000d77d215b.PNG)
 2. Log in to GCP using gmail account.
 3. Claim GCP Voucher to get free billing credit.
 4. Make a new project.
